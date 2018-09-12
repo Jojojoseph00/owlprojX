@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Owl-ProjX
+
+This is a temporary website for my web development.
+
+Look up markdown Syntax
 
 You can use the [editor on GitHub](https://github.com/Jojojoseph00/owlprojX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,6 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
