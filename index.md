@@ -2,11 +2,32 @@
 
 This is a temporary website for my web development.
 
-Look up markdown Syntax
+Note to self: Look up markdown Syntax
+
+
+
+### Some cute lil box thingy
+
+```markdown
+You can write stuff here like code and insert photos etc
+
+
+![Image](https://pre00.deviantart.net/9cf7/th/pre/f/2017/358/b/0/b0d8a29193c4f5c6339dd70414948980-dbxo42i.png)
+```
+
+
 
 You can use the [editor on GitHub](https://github.com/Jojojoseph00/owlprojX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Some image outside the box
+
+Let's try this here
+
+![Image](https://pre00.deviantart.net/9cf7/th/pre/f/2017/358/b/0/b0d8a29193c4f5c6339dd70414948980-dbxo42i.png)
+
+How did it go?
 
 ### Markdown
 
