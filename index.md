@@ -1,8 +1,29 @@
-## Welcome to Owl-ProjX
+##  WELCOME TO OWL-PROX
 
 We are a young web development company founded by fresh Computer Science graduates with the aim of democratising web development.
-Owl-ProjX is born from the frustration of witnessing pompous elitism affect computer science. While computer scientists' aim is to advance progress into the lives of all, we live in a world where the skilled are charging ridiculously their clients for technologies now essential to any business.
+Owl-ProjX is born from the frustration of witnessing pompous elitism affect computer science.
+While computer scientists' aim is to advance progress into the lives of all, we live in a world where the skilled are charging ridiculously their clients for technologies now essential to any business.
 Owl-ProjX garantees
+
+
+##  WHY YOU NEED A WEBSITE
+
+You'd
+
+
+##  WEB DEVELOPER VS WEB DESIGNER
+
+There is a fundamental difference between a web developing and a web designing firm. The latter is solely focused on the front end aspect of your website. This means that they strictly
+
+
+In essence, web design refers to both the aesthetic portion of the website and it’s usability. Web designers use various design programs such as Adobe Photoshop to create the layout and other visual elements of the website.
+
+Web Developers on the other hand, take a website design and actually make a functioning website from it. Web developers use HTML, CSS, Javascript, PHP and other programming languages to bring to life the design files.
+
+
+##  PRICING STRATEGY
+
+
 
 
 ### Some cute lil box thingy
