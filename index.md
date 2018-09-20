@@ -1,13 +1,9 @@
 ## Welcome to Owl-ProjX
 
-We are a newly founded web
+We are a young web development company founded by fresh Computer Science graduates with the aim of democratising web development.
+Owl-ProjX is born from the frustration of witnessing pompous elitism affect computer science. While computer scientists' aim is to advance progress into the lives of all, we live in a world where the skilled are charging ridiculously their clients for technologies now essential to any business.
+Owl-ProjX garantees
 
-
-This is a temporary website for my web development.
-
-Note to self: Look up markdown Syntax
-
-#Is this bigger?
 
 ### Some cute lil box thingy
 
@@ -18,7 +14,9 @@ You can write stuff here like code and insert photos etc
 ![Image](https://pre00.deviantart.net/9cf7/th/pre/f/2017/358/b/0/b0d8a29193c4f5c6339dd70414948980-dbxo42i.png)
 ```
 
+This is a temporary website for my web development.
 
+Note to self: Look up markdown Syntax
 
 You can use the [editor on GitHub](https://github.com/Jojojoseph00/owlprojX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
