@@ -1,10 +1,10 @@
 ##  WELCOME TO OWL-PROX
 
-We are a young web development company founded by fresh Computer Science graduates with the aim of democratising web development.
+We are a young tech company founded by fresh Computer Science graduates with the aim of democratising web development.
 
-_Owl-ProjX_ is born from the frustration of witnessing pompous elitism affect computer science. While computer scientists' aim is to advance progress into the lives of all, we live in a world where the skilled are charging ridiculously their clients for technologies now essential to any business. That explains how some businesses pay up to $70,000 for websites that actually cost a third of that.
+_Owl-ProjX_ is born from the frustration of witnessing pompous elitism affect computer science. While computer scientists' aim is to advance progress into the lives of all, we live in a world where the skilled are blatantly over-chargingtheir clients for technologies or software solutions now essential to any business. That explains how some businesses pay up to $70,000 for websites that actually cost a third of that price.
 
-_Owl-ProjX_ garantees
+_Owl-ProjX_ aims to provide with various tech solutions at a price
 
 
 
@@ -12,7 +12,8 @@ _Owl-ProjX_ garantees
 
 A surprisingly common misconception that small and medium business owners seem to have is that
 
-Para this: https://blogs.constantcontact.com/small-business-website/
+Paraphrase this: https://blogs.constantcontact.com/small-business-website/
+
 Done
 
 
@@ -20,8 +21,7 @@ Done
 
 ##  WEB DEVELOPER VS WEB DESIGNER
 
-There is a fundamental difference between a web developing and a web designing firm. The latter is solely focused on the front end aspect of your website. This means that they strictly
-
+There is a fundamental difference between a web developing and a web designing firm.
 
 In essence, web design refers to both the aesthetic portion of the website and it’s usability. Web designers use various design programs such as Adobe Photoshop to create the layout and other visual elements of the website.
 
@@ -34,29 +34,31 @@ Web developers may convert a static layout into a dynamic website by using image
 Small- and medium-sized companies looking for a website or a re-design of their existing website may be confused by the blurred lines surrounding the terms “Web Design” and “Web Development.” Although there are individuals that are able to do both, many companies have dedicated designers which create the website layout and then hand the design files over to a programmer who completes the development stage. Hopefully this article will help clear up the common misconception that design and development are one in the same.
 
 
-##  PRODUCTS & PRICING
+##  PRODUCTS & PRICING STRATEGY
 
 Different business have different needs aesthetic
 Below we list down our fixed costs for building the website (what we charge)
 A thorough market analysis was performed to fix our prices, those costs are as low as we can afford to go for each package. Depending on functionnality, we have to hire freelance experts, purchase tools, rights for styles etc.
 We cap off website pricing to maximums which we never exceed no matter the size of your website.
 
-### **Basic**: static website
+### **Basic**:          static website
 Quick explanation sentence
 
 $50/page + $250 research & planning (sitemap etc)
 
 Time for completion: approx. 3 months
 
-### **intermediate I**: Custom Design & Content
+### **intermediate I**:           Custom Design & Content
 Quick explanation sentence
 
 $100/page + $250 research & planning + (200$-2000$ Custom design rethink this one)
 
 Time for completion: approx. 6 months
 
+Explain price range for design
 
-### **intermediate II**: Content management system
+
+### **intermediate II**:          Content management system
 Quick explanation sentence
 
 $200/page + $250 research & planning + $500-$2500 Content Management system
@@ -64,15 +66,12 @@ $200/page + $250 research & planning + $500-$2500 Content Management system
 Variability of the cost of the CMS ranges depending on the complexity of the functions you wish to show. This CMS is not the only thing we have to design; databases have to be built, API's can be used, and ofc the CMS interface for you to edit the content dynamically.
 
 
-### **Advanced**: Two-way interaction
+### **Advanced**:           Two-way interaction
 E-commerce, blog etc
 
-s
+To do
 
 
-
-
-###  PRICING STRATEGY
 
 For any respectable business owner, this section is of the utmost importance. If you lookup other web development firms however, you'll be frustrated to find that web developers never list out their prices clearly.
 
@@ -109,14 +108,6 @@ Note to self: Look up markdown Syntax
 You can use the [editor on GitHub](https://github.com/Jojojoseph00/owlprojX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Some image outside the box
-
-Let's try this here
-
-![Image](https://pre00.deviantart.net/9cf7/th/pre/f/2017/358/b/0/b0d8a29193c4f5c6339dd70414948980-dbxo42i.png)
-
-How did it go?
 
 ### Markdown
 
